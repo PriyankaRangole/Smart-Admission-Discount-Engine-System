@@ -1,0 +1,15 @@
+student
+       name
+       email
+       phone
+       course
+
+course 
+      name
+      duration
+      fee
+      batch
+
+batch
+      BatchId
+      courseId
